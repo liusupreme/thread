@@ -4,7 +4,7 @@ public class ThreadCount {
 
 	public static void main(String[] args) {
 
-		int count = 11;
+		int count = 22;
 
 		try {
 			while(true)
