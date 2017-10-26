@@ -3,7 +3,7 @@ package com.thread;
 public class ThreadCount {
 
 	public static void main(String[] args) {
-		int count = 2;
+		int count = 11;
 		try {
 			while(true)
 			{
