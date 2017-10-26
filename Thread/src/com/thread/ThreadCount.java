@@ -3,7 +3,9 @@ package com.thread;
 public class ThreadCount {
 
 	public static void main(String[] args) {
+
 		int count = 22;
+
 		try {
 			while(true)
 			{
